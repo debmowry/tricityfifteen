@@ -1,0 +1,14 @@
+body:before {
+    box-shadow: none;
+}
+.site-header {
+    margin: 1em 0;
+    padding: 0;
+}
+.site-content {
+    margin-left: 0;
+    width: 100%;
+}
+.hentry {
+    box-shadow: none;
+}

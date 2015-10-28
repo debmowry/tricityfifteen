@@ -1,0 +1,25 @@
+.main-navigation {
+    display: block;
+    margin: 0;
+    position: relative;
+    width: 100%;
+}
+.main-navigation ul {
+    border-top: none;
+    border-bottom: none;
+}
+.main-navigation li {
+    border-top: 0;
+    float: left;
+    position: relative;
+}
+.main-navigation li li {
+    float: none;
+}
+.main-navigation a {
+    display: block;
+    padding: 0.5em 1em;
+}
+.main-navigation a:focus,
+.main-navigation a:hover {
+}

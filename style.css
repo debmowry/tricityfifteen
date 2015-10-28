@@ -1,0 +1,11 @@
+/*
+Theme Name:    TriCity Fifteen
+Description:   Child theme of Twenty Fifteen created for Imagine Art during Open Air 2015
+Author:        TriCitySamora Team
+Template:      twentyfifteen
+Version:       1.0
+*/
+
+@import url('css/base.css');
+@import url('css/layout.css');
+@import url('css/nav.css');
