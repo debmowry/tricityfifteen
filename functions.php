@@ -1,8 +1,10 @@
 <?php
 
 // global variables
-
 define(MAX_RESULTS,15);
+// widgetize
+add_filter('widget_text', 'do_shortcode');
+
 
 // Load parent styles and Google fonts
 function tricityfifteen_enqueue_styles() {
